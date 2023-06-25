@@ -1,0 +1,3 @@
+New text of version 1
+
+I am practicing GITHUB
